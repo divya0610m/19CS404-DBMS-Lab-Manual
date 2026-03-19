@@ -78,6 +78,7 @@ END;
 
 **Output:**  
 The program should display the employee details or an error message.
+<img src="https://img.sanishtech.com/u/16d8932222aaaaa58fdfab84772b00c3.jpg" alt="d1" loading="lazy" style="max-width:100%;height:auto;">
 
 ---
 
@@ -98,6 +99,7 @@ The program should display the employee details or an error message.
 **Output:**  
 The program should display the employee details within the specified salary range or an error message if no data is found.
 
+<img src="https://img.sanishtech.com/u/363ec994fa4fae67edc6f7ae5305aa6b.jpg" alt="d2" width="577" height="818" loading="lazy" style="max-width:100%;height:auto;">
 ---
 
 ### **Question 3: Cursor FOR Loop with Exception Handling**
@@ -117,6 +119,7 @@ The program should display the employee details within the specified salary rang
 **Output:**  
 The program should display employee names with their department numbers or the appropriate error message if no data is found.
 
+<img src="https://img.sanishtech.com/u/3103e9cf95175ee5222a89490fc48000.jpg" alt="d3" width="551" height="556" loading="lazy" style="max-width:100%;height:auto;">
 ---
 
 ### **Question 4: Cursor with `%ROWTYPE` and Exception Handling**
@@ -136,6 +139,7 @@ The program should display employee names with their department numbers or the a
 **Output:**  
 The program should display employee records or the appropriate error message if no data is found.
 
+<img src="https://img.sanishtech.com/u/9677acded02db90752cc0304638bffde.jpg" alt="d4" width="537" height="756" loading="lazy" style="max-width:100%;height:auto;">
 ---
 
 ### **Question 5: Cursor with FOR UPDATE Clause and Exception Handling**
@@ -154,6 +158,8 @@ The program should display employee records or the appropriate error message if 
 
 **Output:**  
 The program should update employee salaries and display a message, or it should display an error message if no data is found.
+
+<img src="https://img.sanishtech.com/u/dde3f57e53aefef5adc156120815b185.jpg" alt="d5" width="537" height="782" loading="lazy" style="max-width:100%;height:auto;">
 
 ---
 
